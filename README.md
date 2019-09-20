@@ -1,5 +1,5 @@
 # OpenCV
 
 
-Final year project testing
+OpenCV library
 
