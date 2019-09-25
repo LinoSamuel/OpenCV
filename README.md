@@ -1,5 +1,4 @@
 # OpenCV
 
-
 OpenCV library
 
